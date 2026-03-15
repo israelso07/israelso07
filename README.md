@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 Israel Santana
 
-**`Desenvolvedo FullStack`**
+**`Desenvolvedor FullStack`**
 
 Desde pequeno, minha curiosidade por tecnologia me levou a explorar o mundo da programação. Com o tempo, essa curiosidade se transformou em uma verdadeira paixão pela área, tendo sempre o desejo de evoluir e aprender coisas novas e enfrentar novos desafios. 
 
